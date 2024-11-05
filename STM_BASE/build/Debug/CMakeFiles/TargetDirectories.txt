@@ -1,0 +1,5 @@
+C:/Users/Aluno/Desktop/VINICIUS_BRITO/ELAT73A-LAB03/STM_BASE/build/Debug/CMakeFiles/STM_BASE.dir
+C:/Users/Aluno/Desktop/VINICIUS_BRITO/ELAT73A-LAB03/STM_BASE/build/Debug/CMakeFiles/edit_cache.dir
+C:/Users/Aluno/Desktop/VINICIUS_BRITO/ELAT73A-LAB03/STM_BASE/build/Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Aluno/Desktop/VINICIUS_BRITO/ELAT73A-LAB03/STM_BASE/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/Aluno/Desktop/VINICIUS_BRITO/ELAT73A-LAB03/STM_BASE/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
